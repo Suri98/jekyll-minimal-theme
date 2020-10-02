@@ -3,7 +3,7 @@ layout: post
 title: "New Repo - Bayern (Baviria) - incl. European Beer Stars 2011, 2012, 2013"
 ---
 
-Moved all beer, brewpub n brewery data for Bayern
+Moved all beer, and wines brewpub n brewery data for Bayern
 (Baviria) to its own repo, that is, [`openbeer/by-bayern`](https://github.com/openbeer/by-bayern).
 
 Also includes all European Beer Star winners from Bayern
