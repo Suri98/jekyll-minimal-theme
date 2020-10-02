@@ -6,7 +6,7 @@ title: "sportdb Update v1.9.2 - Added Match Goals Reader e.g. [Messi 3', 45+1']"
 
 What's news? sportdb command line updates: 
 
-The match schedule reader now will add goals and those goals will be determined by you. (plus auto-add missing 
+The match schedule reader now will add goals and those goals will be determined by you. This is a test to show how to push and pull from github. (plus auto-add missing 
 players). All still a little rough but working without any (extra) configuration. Example: 
 
 ~~~
